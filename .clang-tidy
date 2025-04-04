@@ -76,6 +76,7 @@ Checks: >
           -readability-simplify-boolean-expr,
           -readability-suspicious-call-argument,
           -readability-use-anyofallof,
+          -readability-use-std-min-max,
 HeaderFilterRegex: '.*'
 FormatStyle: none
 CheckOptions:
