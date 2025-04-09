@@ -46,6 +46,7 @@ Checks: >
           -misc-no-recursion,
           -misc-non-private-member-variables-in-classes,
           -misc-use-anonymous-namespace,
+          -misc-use-internal-linkage,
           -misc-unused-parameters,
         modernize-*,
           -modernize-avoid-c-arrays,
